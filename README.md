@@ -106,4 +106,5 @@ Get the latest release from https://manicancode.github.io and join the movement 
 
 ---
 
+
 **Feel the game evolve. Become the architect of your legacy with the Court Alchemist Suite!**
